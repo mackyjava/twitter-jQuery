@@ -1,0 +1,14 @@
+article{
+  border-style: solid;
+  border-width: thin;
+  padding: 5px 5px 5px 5px ;
+
+}
+
+p{
+  font-size: 30px;
+}
+
+.dentroTweet{
+  align-items: right;
+}
