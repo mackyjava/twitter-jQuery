@@ -8,7 +8,13 @@ article{
 p{
   font-size: 30px;
 }
-
-.dentroTweet{
-  align-items: right;
+.form-control{
+	max-width: 35%;
+	display: inline-block;
+	max-height: 200px;
+}
+textarea{
+	height: 3.3em;
+	overflow:hidden;
+	resize: both;
 }
