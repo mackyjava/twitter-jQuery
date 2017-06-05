@@ -88,7 +88,7 @@ var validarContenido = function () {
       descontar.css("color", "orange");
     }else if(caracteresMenos>= 130 && caracteresMenos<140){
       descontar.css("color", "red");
-    }console.log(caracteresMenos);
+    }
 };
 var cambiarTamaño= function(e){
   if(e.which==13){
